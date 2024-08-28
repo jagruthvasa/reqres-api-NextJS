@@ -22,8 +22,8 @@ A simple REST API built with NestJS, MongoDB, and RabbitMQ that integrates with 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/user-rest-api.git
-   cd user-rest-api
+   git clone https://github.com/jagruthvasa/reqres-api-NextJS.git
+   cd reqres-api-NextJS
    ```
 
 2. **Install dependencies::**
