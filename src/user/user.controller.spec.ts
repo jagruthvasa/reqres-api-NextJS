@@ -31,7 +31,7 @@ describe('UserController', () => {
 
   describe('createUser', () => {
     it('should call userService.create', async () => {
-      const createUserDto = { name: 'John Doe', job: 'Developer' };
+      const createUserDto = { name: 'John Doe', email: 'abc@gmail.com' };
       await controller.createUser(createUserDto);
       expect(service.create).toHaveBeenCalledWith(createUserDto);
     });

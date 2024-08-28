@@ -8,5 +8,5 @@ export class CreateUserDto {
 
   @IsNotEmpty()
   @IsString()
-  job: string;
+  email: string;
 }
