@@ -44,7 +44,7 @@ A simple REST API built with NestJS, MongoDB, and RabbitMQ that integrates with 
 
 1. **Ensure your environment variables are set up:**
 
-   Make sure you have created a `.env` file in the root directory with the required environment variables as described in the [Setup environment variables](#setup-environment-variables) section.
+   Make sure you have created a `.env` file in the root directory with the required environment variables.
 
 2. **Start the application:**
 
@@ -76,7 +76,7 @@ To ensure the functionality and reliability of the application, a suite of tests
 Access the Postman collection for API testing: [Payever Assignment Collection](https://www.postman.com/aviation-architect-34779856/workspace/payever-backend-jagruth/collection/36467777-a28abdfb-3a35-4fcb-8db1-68b8a33ed109?action=share&creator=36467777).
 
 
-### Contact 📞
+## Contact 📞
 
 Vasa Sai Jagruth - [@LinkedIn](https://www.linkedin.com/in/jagruth/) - jagruthvasa@gmail.com - 9010545613
 
