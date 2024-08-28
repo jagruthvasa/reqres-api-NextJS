@@ -67,3 +67,16 @@ To ensure the functionality and reliability of the application, a suite of tests
    npm run test
    ```
    This will execute all tests and provide a summary of the results.
+
+   ![image](https://github.com/user-attachments/assets/72eb580c-1681-4ae3-95dc-1c8d26288e8c)
+
+
+## 📬 Postman Collection
+
+Access the Postman collection for API testing: [Payever Assignment Collection](https://www.postman.com/aviation-architect-34779856/workspace/payever-backend-jagruth/collection/36467777-a28abdfb-3a35-4fcb-8db1-68b8a33ed109?action=share&creator=36467777).
+
+
+### Contact 📞
+
+Vasa Sai Jagruth - [@LinkedIn](https://www.linkedin.com/in/jagruth/) - jagruthvasa@gmail.com - 9010545613
+
