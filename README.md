@@ -79,4 +79,5 @@ Access the Postman collection for API testing: [Payever Assignment Collection](h
 ## Contact 📞
 
 Vasa Sai Jagruth - [@LinkedIn](https://www.linkedin.com/in/jagruth/) - jagruthvasa@gmail.com - 9010545613
+GIT REPO : https://github.com/jagruthvasa/reqres-api-NextJS
 
